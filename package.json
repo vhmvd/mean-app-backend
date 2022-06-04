@@ -1,0 +1,18 @@
+{
+  "name": "mean-app-backend",
+  "version": "1.0.0",
+  "description": "A tiring endeavour",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mean-app-backend"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
